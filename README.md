@@ -1,4 +1,9 @@
- <h1 align="center">Hi 👋, I'm Jamil Shehab</h1>
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+
+</p>
+<h1 align="center">Hi 👋, I'm Jamil Shehab</h1>
 <h3 align="center">A Lebanese Programmer With A Goal To Be A Software Engineer</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamilshehab&label=Profile%20views&color=0e75b6&style=flat" alt="jamilshehab" /> </p>
