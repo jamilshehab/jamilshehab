@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">A Developer on a Journey to Mastery 🚀</h1>
-<h3 align="center">A Lebanese Programmer With A Goal To Be A Software Engineer</h3>
+<h3 align="center">Building My Future: A Lebanese Programmer Pursuing a Software Engineering Career 🌱💻</h3>
 
 <div align="center">
   <img align="center" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="programmer gif" />
