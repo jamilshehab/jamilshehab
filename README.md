@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="200" height="200" src="https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt="my banner"/>
+  <img width="200" height="200" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="my banner"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Jamil Shehab</h1>
