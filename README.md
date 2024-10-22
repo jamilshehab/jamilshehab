@@ -2,7 +2,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="my banner" width="100%" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Jamil Shehab</h1>
+<h1 align="center">A Developer on a Journey to Mastery</h1>
 <h3 align="center">A Lebanese Programmer With A Goal To Be A Software Engineer</h3>
 
 <div align="center">
