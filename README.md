@@ -1,8 +1,8 @@
-<p align=”center”>
+<div align="center">
 
-<img width=”200" height=”200" src=”https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+<img width=”200" height=”200" src=”https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”/>
 
-</p>
+</div>
 <h1 align="center">Hi 👋, I'm Jamil Shehab</h1>
 <h3 align="center">A Lebanese Programmer With A Goal To Be A Software Engineer</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
