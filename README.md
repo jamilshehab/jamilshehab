@@ -2,7 +2,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="my banner" width="100%" />
 </div>
 
-<h1 align="center">A Developer on a Journey to Mastery 🚀</h1>
+<h1 align="center">Jamil Shehab A Junior Developer on a Journey to Mastery 🚀</h1>
 <h3 align="center">Building My Future: A Lebanese Programmer Pursuing a Software Engineering Career 🌱💻</h3>
 
 <div align="center">
